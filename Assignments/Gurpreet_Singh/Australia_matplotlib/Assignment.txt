@@ -1,0 +1,10 @@
+Use AustraliaFiltered.xlsx dataset generated earlier.
+Plot bar chart of total no of immigrants for countires top 5 countires having max no of total immigrants
+Find total immigrants from each category by area name and plot barchart for each area
+Plot total immigration trend(immigration of world over the years i.e. year vs Total count for that year) using line plot.
+Compare Immigration Trend for Asia, Africa and Europe AreaName (Use Line plot).
+Plot Total Immigrants based on DevelopmenRegion
+Plot immigration trend for India using line plot
+Plot immigration Trend(year vs count) for the coutries with top 5 total immigrants. Use Line plot
+For the above use area plot with alpha = 0.5
+Compare Immigration Trend for top-5 countires using stacked area plot
